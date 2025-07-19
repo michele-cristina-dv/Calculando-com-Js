@@ -15,7 +15,7 @@ Projeto de uma calculadora funcional feita com **JavaScript**, **HTML** e **CSS*
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ## 📂 Como usar
 
